@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/save-the-future/static/css/main.c3167108.chunk.css",
-    "main.js": "/save-the-future/static/js/main.79561eb8.chunk.js",
-    "main.js.map": "/save-the-future/static/js/main.79561eb8.chunk.js.map",
+    "main.js": "/save-the-future/static/js/main.d531f913.chunk.js",
+    "main.js.map": "/save-the-future/static/js/main.d531f913.chunk.js.map",
     "runtime-main.js": "/save-the-future/static/js/runtime-main.57eeca52.js",
     "runtime-main.js.map": "/save-the-future/static/js/runtime-main.57eeca52.js.map",
     "static/js/2.44580625.chunk.js": "/save-the-future/static/js/2.44580625.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.57eeca52.js",
     "static/js/2.44580625.chunk.js",
     "static/css/main.c3167108.chunk.css",
-    "static/js/main.79561eb8.chunk.js"
+    "static/js/main.d531f913.chunk.js"
   ]
 }
