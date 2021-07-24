@@ -9,7 +9,7 @@ export default function Projects() {
                 
                 <div className="project-parent">
                     <div className="project-img"> 
-                        <img src={`${window.location.origin}/Image/project1.jpg`} alt="" className="image" />
+                        <img src={`${window.location.origin}/save-the-future/Image/project1.jpg`} alt="" className="image" />
                     </div>
                     <div className="project-details"> 
                     <span> Street children </span>
@@ -25,13 +25,13 @@ export default function Projects() {
                     
                     </div> 
                     <div className="project-img"> 
-                        <img src={`${window.location.origin}/Image/project3.jpg`} alt="" className="image" />
+                        <img src={`${window.location.origin}/save-the-future/Image/project3.jpg`} alt="" className="image" />
                     </div>
                 </div>
 
                 <div className="project-parent">
                     <div className="project-img"> 
-                        <img src={`${window.location.origin}/Image/project2.jpg`} alt="" className="image" />
+                        <img src={`${window.location.origin}/save-the-future/Image/project2.jpg`} alt="" className="image" />
                     </div>
 
                     <div className="project-details"> 
