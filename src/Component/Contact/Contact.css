@@ -1,0 +1,34 @@
+.contact-main{
+    height: 300px;
+    width: 94%;
+    background: rgba(0, 0, 0, 0.911);
+    padding: 3%;
+    position: relative;
+}
+
+.contact-text{
+    font-size: 30px;
+    font-weight: 600;
+    box-sizing: border-box;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+@media screen and (max-width:550px) {
+    .contact-main{
+        height: 220px;
+    }
+
+    .contact-text{
+        font-size: 22px ;
+    }
+
+}
+
+
+.contact-button{
+    display: grid;
+    justify-content: center;
+    margin-top: 60px;
+}
